@@ -7,4 +7,4 @@ gem 'dm-sqlite-adapter'
 gem 'datamapper'
 gem 'haml'
 
-# DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/rabbits.db")
+# DataMapper.new.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/rabbits.db")
