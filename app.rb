@@ -10,4 +10,9 @@ class App
     haml :index
   end
 
+  get '/rabbits/new' do
+    @rabbit = Rabbit.new
+    haml :new
+  end
+
 end
