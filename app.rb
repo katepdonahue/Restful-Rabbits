@@ -31,4 +31,27 @@ class App
     haml :edit
   end
 
+  put '/rabbits/:id' do
+    @rabbit = Rabbit.get(params[:id])
+    if @rabbit.update(params[:rabbit])
+      status 201
+      redirect '/rabbits/' + params[:id]
+    else
+      status 400
+      haml :edit
+    end
+  end
+
+  delete '/rabbits/:id' do
+    Rabbit.get(params[:id]).destroy
+    redirect '/rabbits'
+  end
+
+  get '/rabbits/:id' do
+    @rabbit = Rabbit.get(params[:id])
+    haml :show
+  end
+
+  DataMapper.auto_upgrade!
+
 end
