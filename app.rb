@@ -26,4 +26,9 @@ class App
     end
   end
 
+  get '/rabbits/edit/:id' do
+    @rabbit = Rabbit.get(params[:id])
+    haml :edit
+  end
+
 end
