@@ -4,7 +4,7 @@ require './lib/rabbits'
 
 DataMapper.setup(:default, ENV['DATABASE_URL'] || "sqlite3://#{Dir.pwd}/rabbits.db")
 
-class App
+class App < Sinatra::Application
 
   get '/rabbits' do
     @rabbits = Rabbit.all
