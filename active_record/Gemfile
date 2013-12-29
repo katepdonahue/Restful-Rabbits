@@ -3,7 +3,8 @@ source "https://rubygems.org/"
 ruby '2.0.0'
 
 gem 'sinatra'
-gem 'dm-sqlite-adapter'
-gem 'datamapper'
+gem 'sqlite3'
+gem 'activerecord'
+gem 'sinatra-activerecord'
+gem 'rake'
 gem 'haml'
-gem 'dm-migrations'
