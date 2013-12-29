@@ -1,11 +1,8 @@
-class Rabbit
-  include DataMapper::Resource
-  property :id,           Serial
-  property :name,         String, :required => true
-  property :description,  Text
-  property :age,          Integer
-  property :color,        String
-  property :created_at,   DateTime
-  property :updated_at,   DateTime
-
+class Rabbit < ActiveRecord::Base
+  validates name:string, :presence => true
+  validates description:text
+  validates age:integer
+  validates color:string
+  validates created_at:datetime
+  validates updated_at:datetime
 end

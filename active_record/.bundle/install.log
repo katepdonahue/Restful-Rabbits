@@ -1,0 +1,22 @@
+# Logfile created on 2013-12-29 18:32:56 -0500 by logger.rb/36483
+I, [2013-12-29T18:32:56.067766 #7101]  INFO -- : 0:  rake (10.1.0) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.0.gemspec
+I, [2013-12-29T18:32:56.068279 #7101]  INFO -- : 0:  i18n (0.6.9) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2013-12-29T18:32:56.068586 #7101]  INFO -- : 0:  minitest (4.7.5) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2013-12-29T18:32:56.068835 #7101]  INFO -- : 0:  multi_json (1.8.2) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2013-12-29T18:32:56.069097 #7101]  INFO -- : 0:  atomic (1.1.14) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2013-12-29T18:32:56.069351 #7101]  INFO -- : 0:  thread_safe (0.1.3) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2013-12-29T18:32:56.069599 #7101]  INFO -- : 0:  tzinfo (0.3.38) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2013-12-29T18:32:56.069854 #7101]  INFO -- : 0:  activesupport (4.0.2) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2013-12-29T18:32:56.070094 #7101]  INFO -- : 0:  builder (3.1.4) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2013-12-29T18:32:56.070349 #7101]  INFO -- : 0:  activemodel (4.0.2) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2013-12-29T18:32:56.070603 #7101]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2013-12-29T18:32:56.070888 #7101]  INFO -- : 0:  arel (4.0.1) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2013-12-29T18:32:56.071141 #7101]  INFO -- : 0:  activerecord (4.0.2) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2013-12-29T18:32:56.071375 #7101]  INFO -- : 0:  tilt (1.4.1) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2013-12-29T18:32:56.071618 #7101]  INFO -- : 0:  haml (4.0.4) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/haml-4.0.4.gemspec
+I, [2013-12-29T18:32:56.071870 #7101]  INFO -- : 0:  rack (1.5.2) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2013-12-29T18:32:56.072120 #7101]  INFO -- : 0:  rack-protection (1.5.1) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/rack-protection-1.5.1.gemspec
+I, [2013-12-29T18:32:56.072404 #7101]  INFO -- : 0:  sinatra (1.4.4) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/sinatra-1.4.4.gemspec
+I, [2013-12-29T18:32:56.072653 #7101]  INFO -- : 0:  sinatra-activerecord (1.2.3) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/sinatra-activerecord-1.2.3.gemspec
+I, [2013-12-29T18:32:56.072889 #7101]  INFO -- : 0:  sqlite3 (1.3.8) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/sqlite3-1.3.8.gemspec
+I, [2013-12-29T18:32:56.073129 #7101]  INFO -- : 0:  bundler (1.5.0) from /Users/katedonahue/.rvm/gems/ruby-2.0.0-p247/specifications/bundler-1.5.0.gemspec
